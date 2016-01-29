@@ -1,29 +1,25 @@
 .rosa{
 	background-color: #ee3e64;
-	position: absolute;
-	left: 0;
-	top:0;
+	position: static;
+	
 	
 }
 .azul{
 	background-color: cyan;
-	position: absolute;
-	right: 0;
-	top: 0;
+	position: relative;
+	left: 200px;	
 
 }
 .verde{
 	background-color: #b7d84b;
-	position: absolute;
-	left: 0;
-	bottom: 0;
+	position: static;
+	
 
 }
 .yellow{
 	background-color: yellow;
-	position: absolute;
-	right: 0;
-	bottom: 0;
+	position: static;
+
 
 }
 div{
