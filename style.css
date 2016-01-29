@@ -10,12 +10,13 @@
 }
 .rosa{
 	background-color: #b7d84b;
-	position: relative;
-	
+	position: static;
+
 }
 div{
 	width: 200px;
 	height: 200px;
+	left: 200px;
 	
 }
 body{
