@@ -1,22 +1,35 @@
-.amarillo{
+.rosa{
 	background-color: #ee3e64;
-	position: static;
+	position: absolute;
+	left: 0;
+	top:0;
 	
 }
 .azul{
 	background-color: cyan;
-	position: relative;
+	position: absolute;
+	right: 0;
+	top: 0;
 
 }
-.rosa{
+.verde{
 	background-color: #b7d84b;
-	position: static;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+
+}
+.yellow{
+	background-color: yellow;
+	position: absolute;
+	right: 0;
+	bottom: 0;
 
 }
 div{
 	width: 200px;
 	height: 200px;
-	left: 200px;
+	
 	
 }
 body{
