@@ -1,0 +1,24 @@
+.amarillo{
+	background-color: #ee3e64;
+	position: static;
+	
+}
+.azul{
+	background-color: cyan;
+	position: relative;
+
+}
+.rosa{
+	background-color: #b7d84b;
+	position: relative;
+	
+}
+div{
+	width: 200px;
+	height: 200px;
+	
+}
+body{
+	margin: 0px;
+	padding: 0;
+}
